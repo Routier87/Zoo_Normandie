@@ -1,0 +1,6 @@
+<Animals>
+    <Animal model="a_c_elephant" />
+    <Animal model="a_c_giraffe" />
+    <Animal model="a_c_tiger" />
+    <Animal model="a_c_zebra" />
+</Animals>
